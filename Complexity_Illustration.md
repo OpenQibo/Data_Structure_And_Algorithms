@@ -10,3 +10,5 @@ O后面的括号中有一个函数，指明某个算法的耗时/耗空间与数
 
 * O(1)就是最低的时空复杂度了，也就是耗时/耗空间与输入数据大小无关，无论输入数据增大多少倍，耗时/耗空间都不变。 哈希算法就是典型的O(1)时间复杂度，无论数据规模多大，都可以在一次计算后找到目标（不考虑冲突的话）
 
+![Common_Order_Of Growth Classifications](https://github.com/OpenQibo/MarkdownPhotos/blob/main/Common_Order_Of_Growth_Classifications.png)
+
